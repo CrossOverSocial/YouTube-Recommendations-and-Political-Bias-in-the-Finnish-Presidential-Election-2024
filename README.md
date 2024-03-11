@@ -26,7 +26,7 @@ The data in this repository are open for academic and research purposes.
 
 If you use the data or findings from this repository in your research, please cite as follows:
 
-> CrossOver, CheckFirst, Factabaari. (2024). Up Next, biased politics? YouTube Recommendations and Political Bias in the Finnish Presidential Election 2024. https://github.com/CrossOverSocial/YouTube-Recommendations-and-Political-Bias-in-the-Finnish-Presidential-Election-2024.
+> CrossOver, CheckFirst, Faktabaari. (2024). Up Next, biased politics? YouTube Recommendations and Political Bias in the Finnish Presidential Election 2024. https://github.com/CrossOverSocial/YouTube-Recommendations-and-Political-Bias-in-the-Finnish-Presidential-Election-2024.
 
 ## License
 
